@@ -17,7 +17,7 @@ A high-performance Rust CLI for streaming and concatenating CSV and Parquet file
 ### From Source
 
 ```bash
-git clone https://github.com/joshuagrant/streaming-parquet
+git clone https://github.com/sempervent/streaming-parquet
 cd streaming-parquet
 cargo build --release
 ```
